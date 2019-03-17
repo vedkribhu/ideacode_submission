@@ -1,1 +1,1 @@
-# ideacode_submission
+# ideaCode
