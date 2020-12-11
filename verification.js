@@ -16,8 +16,6 @@ nev.configure(
     (error, options) => {}
 );
 
-var email = "vedanta32000@gmail.com";
-var password = "dragonelis";
 
 var newuser = User(
     {
