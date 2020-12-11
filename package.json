@@ -15,7 +15,7 @@
     "ejs": "^2.6.1",
     "email-verification": "^0.4.6",
     "express": "^4.16.4",
-    "mongoose": "^5.4.19",
+    "mongoose": "^5.7.5",
     "socket.io": "^2.2.0"
   }
 }
